@@ -1,13 +1,5 @@
 
-# Case: Classification
-
-## Etapas:
-
-- Crie um arquivo `requirements.txt` com as bibliotecas necessárias para execução deste projeto;
-- Crie um ambiente virtual (e.g. `case_classification`);
-- Desenvolva o modelo utilizando as etapas do CRISP-DM;
-- Crie um App no Streamlit para prever o dataset `new_customers.csv`;
-
+# Classification
 
 ## Dicionário dos dados
 
